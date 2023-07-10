@@ -148,3 +148,30 @@ p{
   margin-bottom: 24px;
 }
 /* last section */
+.latest{
+  background-image: url(Rectangle\ 9.png);
+  height: 450px;
+  width: 1440px;
+  margin: 0 auto;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.latest h3{
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.latest p{
+  margin-bottom: 40px;
+}
+#email{
+  height: 64px;
+  width: 680px;
+  border: none;
+  border-radius: 8px;
+  padding-left: 20px;
+  margin-right: 10px;  
+}
+/* footer section */

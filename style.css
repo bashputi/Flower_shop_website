@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+/* section one */
+.btn{
+  background-color: #E55473;
+  color: white;
+  border-radius: 8px;
+  padding: 20px 40px;
+}
+/* universal button */
+.banner{
+  background-color: rgba(229, 84, 115, 0.10);
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+}
+.banner-heading{
+  color: #272727;
+  font-size: 80px;
+  font-weight: 800;
+  padding-bottom: 30px;
+}
+.banner-text{
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  padding-bottom: 30px;
+}
+.banner-part2 img{
+  height: 800px;
+}
+/* second part */

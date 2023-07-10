@@ -9,6 +9,7 @@
   color: white;
   border-radius: 8px;
   padding: 20px 40px;
+  border: none;
 }
 p{
   color: rgba(39, 39, 39, 0.6);
@@ -101,3 +102,32 @@ p{
   width: 370px;
 }
 /* section three */
+.deal{
+  background-color: rgba(229, 84, 115, 0.05);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 0;
+  margin: 100px 0;
+  width: 100%;
+}
+.deal-heading{
+  font-weight: 800;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.deal-heading span{
+  color:#E55473;
+}
+.deal button{
+  margin-left: 190px;
+  margin-top: 30px;
+}
+.deal-one{
+ margin-right: 50px;
+}
+.deal-img{
+  margin-left: 50px;
+}
+/* section four */

@@ -72,6 +72,7 @@ p{
   width: 464px;
   background-color: rgba(167, 33, 98, 0.15);
   margin: 24px 0;
+  border-radius: 300px 300px 0 0;
 }
 #feature-img-one img{
   height: 370px;
@@ -82,6 +83,7 @@ p{
   width: 464px;
   background-color: rgba(5, 151, 160, 0.15);
   margin: 24px;
+  border-radius: 300px 300px 0 0;
 }
 #feature-img-two img{
   height: 370px;
@@ -92,6 +94,7 @@ p{
   width: 464px;
   background-color: rgba(71, 125, 17, 0.15);
   margin: 24px 0;
+  border-radius: 300px 300px 0 0;
 }
 #feature-img-three img{
   height: 370px;
@@ -171,7 +174,7 @@ span{
   justify-content: space-around;
   align-items: center;
   width: 100%;
-  height: 80vh;
+  height: 88vh;
   background-color: rgba(229, 84, 115, 0.05);
   margin-bottom: 100px;
 }
@@ -192,11 +195,24 @@ span{
   margin-bottom: 20px;
 }
 .bonus-part2 img{
-  width: 600px;
+  width: 500px;
   height: 500px;
+  border-radius: 5px;
 }
-
-
+.bonus-part1 button{
+  margin: 30px 0 0 140px;
+}
+.bonus-img-one{
+  margin-bottom: 200px;
+  margin-right: -150px;
+  position: relative;
+}
+.bonus-img-two{
+  margin-bottom: -100px;
+}
+#bonus-part-no{
+  margin-top: 450px;
+}
 /* last section */
 .latest{
   background-image: url(Rectangle\ 9.png);

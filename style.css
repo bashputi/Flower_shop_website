@@ -96,6 +96,22 @@ p{
   height: 370px;
   width: 370px;
 }
+/* No mark section */
+.optional{
+  height: 320px;
+  background-color: rgba(39, 39, 39, 0.05);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 63%;
+  margin: 100px auto;
+}
+.optional-img{
+  margin: 30px 120px;
+}
+.optionalimg{
+  margin: 30px 55px;
+}
 /* section three */
 .deal{
   background-color: rgba(229, 84, 115, 0.05);

@@ -40,7 +40,8 @@ p{
   padding-bottom: 30px;
 }
 .banner-part2 img{
-  height: 800px;
+  height: 900px;
+  margin-bottom: -150px;
 }
 /* second part */
 .feature-text1{
